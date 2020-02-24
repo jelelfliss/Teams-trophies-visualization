@@ -1,0 +1,3906 @@
+[
+    {
+        "season": "1956",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 0
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            }
+        ]
+    },
+    {
+        "season": "1957",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 2,
+                "League": 1,
+                "CUP": 0
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1958",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 3,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1959",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 4,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1960",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1961",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 3,
+                "CUP": 0
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1962",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 4,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1963",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 5,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1964",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 7,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 0
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1965",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 8,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            }
+        ]
+    },
+    {
+        "season": "1966",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 8,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 2
+            }
+        ]
+    },
+    {
+        "season": "1967",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 9,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            }
+        ]
+    },
+    {
+        "season": "1968",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 10,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 4
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 1
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            }
+        ]
+    },
+    {
+        "season": "1969",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 11,
+                "CUP": 1
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 4
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 0
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 4
+            }
+        ]
+    },
+    {
+        "season": "1970",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 11,
+                "CUP": 2
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 4
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 4
+            }
+        ]
+    },
+    {
+        "season": "1971",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 11,
+                "CUP": 2
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1972",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 12,
+                "CUP": 2
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1973",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 12,
+                "CUP": 2
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1974",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 12,
+                "CUP": 3
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1975",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 13,
+                "CUP": 4
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 2,
+                "League": 4,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1976",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 14,
+                "CUP": 4
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 4,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1977",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 14,
+                "CUP": 4
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 4,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1978",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 15,
+                "CUP": 4
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 6
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 5,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 4,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1979",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 16,
+                "CUP": 4
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 6
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 6,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 4,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1980",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 17,
+                "CUP": 5
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 6
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 7,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 5,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1981",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 17,
+                "CUP": 5
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 7,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 6,
+                "CUP": 5
+            }
+        ]
+    },
+    {
+        "season": "1982",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 17,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 8,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 6,
+                "CUP": 6
+            }
+        ]
+    },
+    {
+        "season": "1983",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 17,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 4
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 9,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 6,
+                "CUP": 6
+            }
+        ]
+    },
+    {
+        "season": "1984",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 17,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 4
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 10,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 6,
+                "CUP": 7
+            }
+        ]
+    },
+    {
+        "season": "1985",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 17,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 5
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 10,
+                "CUP": 2
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 7,
+                "CUP": 7
+            }
+        ]
+    },
+    {
+        "season": "1986",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 18,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 5
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 11,
+                "CUP": 3
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 8,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1987",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 19,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 5
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 11,
+                "CUP": 3
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 9,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1988",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 20,
+                "CUP": 6
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 9
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 5
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 12,
+                "CUP": 3
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 1
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 9,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1989",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 21,
+                "CUP": 7
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 9
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 5
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 12,
+                "CUP": 4
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 10,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1990",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 22,
+                "CUP": 7
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 6
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 4
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 11,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1991",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 22,
+                "CUP": 7
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 0,
+                "League": 5,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 6
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 4
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 11,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1992",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 22,
+                "CUP": 7
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 6
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 11,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1993",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 22,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 7,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 6
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 11,
+                "CUP": 8
+            }
+        ]
+    },
+    {
+        "season": "1994",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 22,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 7
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 2
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 12,
+                "CUP": 9
+            }
+        ]
+    },
+    {
+        "season": "1995",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 23,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 7
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 12,
+                "CUP": 9
+            }
+        ]
+    },
+    {
+        "season": "1996",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 23,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 10
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 7,
+                "CUP": 8
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 1
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 0,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 12,
+                "CUP": 9
+            }
+        ]
+    },
+    {
+        "season": "1997",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 6,
+                "League": 24,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 11
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 8
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 13,
+                "CUP": 10
+            }
+        ]
+    },
+    {
+        "season": "1998",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 7,
+                "League": 24,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 9,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 8
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 13,
+                "CUP": 10
+            }
+        ]
+    },
+    {
+        "season": "1999",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 7,
+                "League": 24,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 10,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 9,
+                "CUP": 9
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 2
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 14,
+                "CUP": 11
+            }
+        ]
+    },
+    {
+        "season": "2000",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 8,
+                "League": 24,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 10,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 10,
+                "CUP": 9
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 5
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 3,
+                "League": 15,
+                "CUP": 12
+            }
+        ]
+    },
+    {
+        "season": "2001",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 8,
+                "League": 25,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 10,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 11,
+                "CUP": 9
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 6
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 16,
+                "CUP": 13
+            }
+        ]
+    },
+    {
+        "season": "2002",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 25,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 10,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 11,
+                "CUP": 9
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 6
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 16,
+                "CUP": 13
+            }
+        ]
+    },
+    {
+        "season": "2003",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 26,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 10,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 9
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 6
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 17,
+                "CUP": 14
+            }
+        ]
+    },
+    {
+        "season": "2004",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 26,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 10,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 4,
+                "League": 13,
+                "CUP": 6
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 0,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 17,
+                "CUP": 14
+            }
+        ]
+    },
+    {
+        "season": "2005",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 26,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 1,
+                "League": 11,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 6
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 18,
+                "CUP": 15
+            }
+        ]
+    },
+    {
+        "season": "2006",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 26,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 19,
+                "CUP": 16
+            }
+        ]
+    },
+    {
+        "season": "2007",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 27,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 2,
+                "League": 13,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 4
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 19,
+                "CUP": 16
+            }
+        ]
+    },
+    {
+        "season": "2008",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 28,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 2,
+                "League": 12,
+                "CUP": 12
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 14,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 4
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 20,
+                "CUP": 17
+            }
+        ]
+    },
+    {
+        "season": "2009",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 28,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 3,
+                "League": 13,
+                "CUP": 13
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 15,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 5
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 20,
+                "CUP": 17
+            }
+        ]
+    },
+    {
+        "season": "2010",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 28,
+                "CUP": 8
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 3,
+                "League": 14,
+                "CUP": 13
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 15,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 6
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 2
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 6,
+                "CUP": 5
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 21,
+                "CUP": 18
+            }
+        ]
+    },
+    {
+        "season": "2011",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 28,
+                "CUP": 9
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 4,
+                "League": 15,
+                "CUP": 13
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 16,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 6
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 1,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 7,
+                "CUP": 6
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 21,
+                "CUP": 18
+            }
+        ]
+    },
+    {
+        "season": "2012",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 29,
+                "CUP": 9
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 4,
+                "League": 15,
+                "CUP": 14
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 16,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 3,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 4,
+                "League": 21,
+                "CUP": 18
+            }
+        ]
+    },
+    {
+        "season": "2013",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 9,
+                "League": 29,
+                "CUP": 9
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 4,
+                "League": 16,
+                "CUP": 14
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 17,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 3,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 2,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 22,
+                "CUP": 19
+            }
+        ]
+    },
+    {
+        "season": "2014",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 10,
+                "League": 29,
+                "CUP": 10
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 4,
+                "League": 16,
+                "CUP": 14
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 17,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 3,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 23,
+                "CUP": 20
+            }
+        ]
+    },
+    {
+        "season": "2015",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 10,
+                "League": 29,
+                "CUP": 10
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 17,
+                "CUP": 15
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 17,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 24,
+                "CUP": 21
+            }
+        ]
+    },
+    {
+        "season": "2016",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 11,
+                "League": 29,
+                "CUP": 10
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 18,
+                "CUP": 16
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 18,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 4,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 25,
+                "CUP": 22
+            }
+        ]
+    },
+    {
+        "season": "2017",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 12,
+                "League": 30,
+                "CUP": 10
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 18,
+                "CUP": 17
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 18,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 7
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 3,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 26,
+                "CUP": 23
+            }
+        ]
+    },
+    {
+        "season": "2018",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 13,
+                "League": 30,
+                "CUP": 10
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 19,
+                "CUP": 18
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 18,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 5,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 4,
+                "CUP": 3
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 27,
+                "CUP": 24
+            }
+        ]
+    },
+    {
+        "season": "2019",
+        "teams": [
+            {
+                "Team": "Real Madrid",
+                "Country": "Spain",
+                "UEFA_CUP": 13,
+                "League": 30,
+                "CUP": 10
+            },
+            {
+                "Team": "FC Barcelona",
+                "Country": "Spain",
+                "UEFA_CUP": 5,
+                "League": 20,
+                "CUP": 18
+            },
+            {
+                "Team": "Manchester United",
+                "Country": "England",
+                "UEFA_CUP": 3,
+                "League": 18,
+                "CUP": 10
+            },
+            {
+                "Team": "Liverpool",
+                "Country": "England",
+                "UEFA_CUP": 6,
+                "League": 13,
+                "CUP": 7
+            },
+            {
+                "Team": "Chelsea FC",
+                "Country": "England",
+                "UEFA_CUP": 1,
+                "League": 5,
+                "CUP": 8
+            },
+            {
+                "Team": "Manchester City",
+                "Country": "England",
+                "UEFA_CUP": 0,
+                "League": 5,
+                "CUP": 4
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Country": "Germany",
+                "UEFA_CUP": 1,
+                "League": 8,
+                "CUP": 7
+            },
+            {
+                "Team": "Bayern Munich",
+                "Country": "Germany",
+                "UEFA_CUP": 5,
+                "League": 28,
+                "CUP": 25
+            }
+        ]
+    }
+]
